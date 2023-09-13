@@ -1,1 +1,1 @@
-Are u listen
+console.log("View the Console");
